@@ -580,6 +580,7 @@ Financial data access and analysis tools. Enables AI models to work with market 
 - [wowinter13/solscan-mcp](https://github.com/wowinter13/solscan-mcp) 🦀 🏠 - An MCP tool for querying Solana transactions using natural language with Solscan API.
 - [Wuye-AI/mcp-server-wuye-ai](https://github.com/wuye-ai/mcp-server-wuye-ai) 🎖️ 📇 ☁️ - An MCP server that interact with capabilities of the CRIC Wuye AI platform, an intelligent assistant specifically for the property management industry.
 - [zlinzzzz/finData-mcp-server](https://github.com/zlinzzzz/finData-mcp-server) 🐍 ☁️ - An MCP server for accessing professional financial data, supporting multiple data providers such as Tushare.
+- [/api-bricks/api-bricks-sdk/tree/master/mcp](https://github.com/api-bricks/api-bricks-sdk/tree/master/mcp)🐍 ☁️ - An MCP server for accessing cryptocurrency market data, integrating with CoinAPI and supporting real-time and historical data from hundreds of crypto exchanges.
 
 ### 🎮 <a name="gaming"></a>Gaming
 
